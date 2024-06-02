@@ -1,0 +1,7 @@
+rds:
+  db_instance_identifier: mydb
+  allocated_storage: 20
+  db_instance_class: db.t3.micro
+  engine: mysql
+  master_username: admin
+  master_user_password: password123 # TODO: add encryption

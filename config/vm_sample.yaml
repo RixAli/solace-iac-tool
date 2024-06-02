@@ -1,0 +1,8 @@
+vm:
+  #instance_id: i-091f71aee1c178699
+  instance_type: t2.micro
+  ami_id: ami-00beae93a2d981137
+  key_name: test2
+  #subnet_id: subnet-0cf991f90779b084b #optional
+  #security_group_ids: #optional
+    #- sg-00cbbde15e901026f
